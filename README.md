@@ -1,4 +1,4 @@
-<h1>To DO List</h1>
+<h1>To Do List</h1>
 Project Status: :heavy_check_mark: Completed
 <br>
 <h2>Languages Used</h2>
